@@ -1,0 +1,23 @@
+Company name - Pythonnut Technology
+Address - 1st Floor, 594, Umashankar Complex Narayan Peth, near Kanyashala, Pune, 411030
+URL - https://www.pythonnut.com/
+Phone No - 9370440992
+Name Of HR Mngr - Prithvi Agarwal
+Mail - hr@pythonnut.com
+Mob - 9370440992
+Manager - Shubham Pachfule 
+Mail - shubham.pachfule@pythonnut.com
+Mob no - 9561258714
+---------------------------------------------------------------------
+Hi, My Name is Ajay Malewar. I have working with veracity software from since last 2.5 years as java back-end developer.
+while working in the organisation I have worked on a insurance domain project. 
+Which is basically provides the different types insurance to users.
+While developing the project worked with frameworks like spring Boot and Hibernate. 
+And I also worked with OOPs and collection as well as exception Handling.
+For DataBase we used MySQL. Using with these all technologies Im good with creating rest-api.
+For testing The api's we used Postman and for unit testing we used Junit. 
+For project Management tool we used JIRA. With using some core java concept and 
+Java 8 features we complete our project.
+About My highest Education I have Done My Master's In MCA in year of 2019.
+So,This is all short introduction about Me.
+
